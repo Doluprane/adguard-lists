@@ -1,1 +1,6 @@
+#Google Translate
 ||alt1037.translate.google.com^
+#France TV player webservice
+||player.webservices.francetelevisions.fr^$important
+#Decathlon pictures
+||contents.mediadecathlon.com^$important
